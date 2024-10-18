@@ -30,8 +30,8 @@ This EFI has been tested on Mac OS 13 `Ventura` Mac OS 14 `Sonoma` and Mac OS 15
 | SD Card Reader                                    | ✅     |                                   |
 | Camera & Mic                                      | ✅     |                                   |
 | Speaker & 3.5mm audio port                        | ✅     |                                   |
-| Intel iGPU & VGA & HDMI                           | ✅     |                                   |
-| AMD Radeon™ R7 M370                               | ❌     |Not supported past Monterey        |
+| Intel iGPU & VGA & HDMI                           | ✅     |Spoofed to HD 630 for native support  |
+| AMD Radeon™ R7 M370                               | ❌     |Disabled due to not being supported past Monterey        |
 | USB                                               | ✅     |                                   |
 | Sleep                                             | ✅     |                                   |
 | Handoff                                           | ✅     |                                   |
